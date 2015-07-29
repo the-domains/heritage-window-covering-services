@@ -3,14 +3,21 @@
     <channel>
         <title><![CDATA[Untitled RSS Feed]]></title>
         <description><![CDATA[Untitled RSS Feed]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/heritage-window-covering-services/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 29 Jul 2015 05:53:34 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 29 Jul 2015 06:19:21 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/heritage-window-covering-services/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Noah sewing]]></title>
+            <description><![CDATA[<article><h1>Noah sewing</h1><p>Noah sewing draperies at his parents custom drapery workroom.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2ae39acb-143b-4aa5-93a3-98e7e7be2e17.jpg"></article>]]></description>
+            <link>https://thegrid.ai/heritage-window-covering-services/95457710-75de-47af-911b-9e9bf7ffe331/index.html</link>
+            <guid isPermaLink="false">95457710-75de-47af-911b-9e9bf7ffe331</guid>
+            <pubDate>Wed, 29 Jul 2015 06:19:15 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Heritage Logo]]></title>
             <description><![CDATA[<article><h1>Heritage Logo</h1><p>The logo for Heritage Window Covering Services</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/93767cb3-b162-4db4-b8ce-aa523bbcb967.png"></article>]]></description>
-            <link>undefinedfe9879a6-209d-4fd7-8c70-cd127a1e10a8/index.html</link>
+            <link>https://thegrid.ai/heritage-window-covering-services/fe9879a6-209d-4fd7-8c70-cd127a1e10a8/index.html</link>
             <guid isPermaLink="false">fe9879a6-209d-4fd7-8c70-cd127a1e10a8</guid>
             <pubDate>Wed, 29 Jul 2015 05:53:23 GMT</pubDate>
         </item>
