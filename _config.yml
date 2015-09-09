@@ -1,19 +1,4 @@
-name: null
-favicon: null
-layout_spectrum: 0
-typography_spectrum: 0.48852
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+analytics: {}
 color:
   brandColors:
     - '#4d585a'
@@ -23,9 +8,12 @@ color:
     - '#005555'
   brandStrength: 1
   lightness: 0.5
-  saturation: 0.5
   rhythmicContrast: 0.5
+  saturation: 0.5
+cta: {}
+layout_spectrum: 0.908783
+name: Heritage Window Covering Services
+opengraph: {}
 purpose:
   - name: sign-ups
-    item: null
-    url: null
+typography_spectrum: 0.48852
